@@ -28,15 +28,15 @@ One of the primary engineering goals was treating the AI assistant as another au
 
 # Screenshots
 
-| Home | AI Assistant |
+| AI Assistant | Habits |
 |------|--------------|
 | ![](images/home.png) | ![](images/assistant.png) |
 
-| Tasks | Habits |
+| Tasks | Journal |
 |------|---------|
 | ![](images/tasks.png) | ![](images/habits.png) |
 
-| Journal | Routine |
+| Routine | Profile |
 |---------|----------|
 | ![](images/journal.png) | ![](images/routine.png) |
 
