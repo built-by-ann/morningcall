@@ -20,9 +20,9 @@ One of the primary engineering goals was treating the AI assistant as another au
 
 # Demo
 
-**Demo Video**
+[![Watch the MorningCall Demo](demo/thumbnail.png)](https://www.youtube.com/watch?v=GAFjmWF82tA)
 
-[Watch the demo here](demo/demo.mp4)
+*Click the image above to watch the full application demo on YouTube.*
 
 ---
 
