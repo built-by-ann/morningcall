@@ -22,7 +22,17 @@ One of the primary engineering goals was treating the AI assistant as another au
 
 **Demo Video**
 
-[Watch the demo here](DEMO_VIDEO_LINK)
+[Watch the demo here](demo/demo.mp4)
+
+---
+
+# Poster
+
+<a href="poster/poster.pdf">
+  <img src="poster/poster.png" alt="MorningCall Poster" width="900">
+</a>
+
+*Click the poster to view the full-resolution PDF.*
 
 ---
 
@@ -30,15 +40,15 @@ One of the primary engineering goals was treating the AI assistant as another au
 
 | AI Assistant | Habits |
 |------|--------------|
-| ![](images/home.png) | ![](images/assistant.png) |
+| ![](images/assistant.png) | ![](images/habits.png) |
 
-| Tasks | Journal |
+| Todos | Journal |
 |------|---------|
-| ![](images/tasks.png) | ![](images/habits.png) |
+| ![](images/todos.png) | ![](images/journal.png) |
 
 | Routine | Profile |
 |---------|----------|
-| ![](images/journal.png) | ![](images/routine.png) |
+| ![](images/routine.png) | ![](images/profile.png) |
 
 ---
 
@@ -226,17 +236,17 @@ Potential future improvements include:
 ```
 .
 ├── README.md
-├── poster/
-│   └── morningcall-poster.pdf
+├── demo/
+│   └── demo.mp4
 ├── images/
-│   ├── home.png
 │   ├── assistant.png
-│   ├── tasks.png
 │   ├── habits.png
 │   ├── journal.png
-│   └── routine.png
-└── docs/
-    └── architecture.md
+│   ├── profile.png
+│   ├── routine.png
+│   └── todos.png
+└── poster/
+    └── poster.pdf
 ```
 
 ---
