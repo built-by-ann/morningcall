@@ -247,6 +247,7 @@ Potential future improvements include:
 │   └── todos.png
 └── poster/
     └── poster.pdf
+    └── poster.png
 ```
 
 ---
